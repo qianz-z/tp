@@ -1,4 +1,10 @@
+,---.          o     ,---.    |o|
+|---',---.,---..,---.|--- ,---|.|--- ,---.,---.
+|  \ |---'|    ||   ||    |   |||    |   ||
+`   ``---'`---'`|---'`---'`---'``---'`---'`
+                |
 Program starting!
 Parseable command at the momemt: add, delete, list, view, exit
->>> Echo CommandResult message: RecipEditor ends here...
+File already exists at ./data/data.txt
+>>> RecipEditor ends here...
 Program exiting
