@@ -35,7 +35,6 @@ public class Recipeditor {
      */
     private static void start(String[] args) {
         Ui.showGreeting();
-        assert  false;
         //TODO: Load from storage
     }
 
